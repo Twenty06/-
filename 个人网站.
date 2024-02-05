@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的个人网站</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>欢迎来到我的个人网站</h1>
+    </header>
+    <section id="about">
+        <h2>关于我</h2>
+        <p>你好！在这里，你可以找到我的业务展示和联系方式。</p>
+    </section>
+    <section id="contact">
+        <h2>联系方式</h2>
+        <p>电子邮箱：2543789451@qq.com</p>
+        <p>电话号码：18343198170</p>
+    </section>
+    <section>
+        <h2>业务展示</h2>
+        <p></p>
+        <p></p>
+    </section>
+</body>
+</html>
